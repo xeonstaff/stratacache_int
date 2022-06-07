@@ -1,0 +1,1 @@
+            console.log(arry[numindex - 1])
